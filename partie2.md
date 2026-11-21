@@ -24,7 +24,7 @@ Les ressources Kubernetes concernant MySQL sont à déployer dans le namespace `
 
 | Description | Key | Value |
 |-|-|-|
-Mot de passe de votre utilisateur de la BDD MySQL | MYSQL_PASSWORD | Au choix (encodé en base64) |
+Mot de passe de votre utilisateur de la BDD MySQL | MYSQL_PASSWORD | Au choix (encodé                                       en base64) |
 Mot de passe de l'utilisateur root de la BDD MySQL | MYSQL_ROOT_PASSWORD | Au choix (encodé en base64) |
 
 *Depuis Linux :*
