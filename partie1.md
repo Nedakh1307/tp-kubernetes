@@ -46,7 +46,7 @@ Dans le cadre de ce TP nous allons isoler nos différents services de la façon 
 > kubectl get namespaces
 
 ---
-*Livrables attendus : 3 fichiers YAML, la liste des commandes utilisées, 2 captures d'écran*
+*Livrables attendus : 3 fichiers YAML, la liste des commàandes utilisées, 2 captures d'écran*
 
 ### NGINX
 Le service Nginx est utilisé comme reverse proxy pour le service WordPress.
